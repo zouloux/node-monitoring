@@ -5,6 +5,7 @@ Simple NodeJS based Linux machines monitoring tool.
 
 
 # Why
+
 I needed to know when something got wrong in my VMs setup or on a production machine.
 Consider this script as a beta, and tweak it to your needs.
 Pull-Request are really appreceatied if you have any good idea to add to this little tool.
@@ -16,6 +17,7 @@ Pull-Request are really appreceatied if you have any good idea to add to this li
 - Monitor local and production machines
 - Send a Slack message when any machine is down or behave not correctly
 - Setup thresholds for messages
+- Tested on Windows / MacOS / Linux hosts
 
 Having slack notifications means notifications on your smartphone, anywhere, anytime :)
 
