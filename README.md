@@ -3,10 +3,6 @@ Simple NodeJS based Linux machines monitoring tool.
 
 ![Node Monitoring example](example.png?raw=true "Node Monitoring example")
 
-#### French
-
-Sorry it's in french for now, will maybe do English version.
-Feel free to translate in your language.
 
 # Why
 I needed to know when something got wrong in my VMs setup or on a production machine.
@@ -32,3 +28,9 @@ Having slack notifications means notifications on your smartphone, anywhere, any
 # Update
 
 - `git pull`
+
+
+### French
+
+Sorry config, comments and Slack messages are in french for now, will maybe do English version anytime.
+Feel free to translate in your language.
