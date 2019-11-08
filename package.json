@@ -1,0 +1,22 @@
+{
+  "name": "cher-ami-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "cli-color": "^1.4.0",
+    "clui": "^0.3.6",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.cher-ami.tv:2000/home/git/cher-ami/monitoring.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
